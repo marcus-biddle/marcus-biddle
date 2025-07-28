@@ -8,9 +8,6 @@ Self-taught dev here with an Economics degree in my pocket. Started off as a QA 
 
 * 🌍  I'm based in California
 * ✉️  You can contact me at [marc.andrewbiddle@gmail.com](mailto:marc.andrewbiddle@gmail.com)
-* 🚀  I'm currently working on [Calisthenic Tracker](http://github.com/marcus-biddle/icarus2.0)
-* 🧠  I'm learning cloud infrastructure
-* 🤝  I'm open to collaborating on backend projects!
 * ⚡  Always open for a match of chess, just let me know
 
 ### Skills
